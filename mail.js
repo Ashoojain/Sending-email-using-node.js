@@ -1,7 +1,7 @@
 const send1=require('@sendgrid/mail');
 
 // key of sendgrid account
-const key='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';
+const key='Api_KEy';
 
 // set the key
 send1.setApiKey(key);
